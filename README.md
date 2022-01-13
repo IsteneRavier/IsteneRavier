@@ -1,6 +1,6 @@
 ## Prazer, eu sou o Istene Ravier, e sou um desenvolvedor focado no Back-End
 
-<div align="center">
+<div align="side">
   <a href="https://github.com/IsteneRavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsteneRavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsteneRavier&layout=compact&langs_count=7&theme=dark"/>
