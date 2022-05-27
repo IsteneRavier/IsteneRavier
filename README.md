@@ -1,4 +1,4 @@
-## Prazer, eu sou o Istene Ravier, e sou um desenvolvedor focado no Back-End
+## Prazer, eu sou o Istene Ravier, e sou um desenvolvedor focado no Front-End
 
 <div align="side">
   <a href="https://github.com/IsteneRavier">
